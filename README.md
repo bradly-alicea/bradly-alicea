@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on big, unfinished (or unwieldy) ideas! Virtual Reality, Computational Developmental Biology, and Neuro/CogSci. My collaborators and I combine this perspective with social feed pedagogy on the [Big, Unfinished Ideas Discord](https://discord.gg/ZvxwgXg) 🔥
 
-- :watch: Check out my recent publications! [CV](https://balicea.github.io/CV.html)
+- :watch: Check out my recent publications! [CV](https://bradly-alicea.weebly.com/curriculum-vita.html)
 
 - 🤔 I’m looking for help with: open source education and open access science. If someone has developed a good set of biology-specific emojis (:snail:, :fish:, :hatching_chick: are not sufficient for our needs), get in touch.
 
