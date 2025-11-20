@@ -11,7 +11,7 @@
 
 - :watch: Check out my recent publications! [CV](https://balicea.github.io/CV.html)
 
-- 🤔 I’m looking for help with: open source education and associated funders. If someone has developed a good set of biology-specific emojis (:snail:, :fish:, :hatching_chick: are not sufficient for our needs), get in touch.
+- 🤔 I’m looking for help with: open source education and open access science. If someone has developed a good set of biology-specific emojis (:snail:, :fish:, :hatching_chick: are not sufficient for our needs), get in touch.
 
 - :volcano: Ask me about my collection of ideas!   
 
@@ -19,6 +19,6 @@
   
 - 🌱 [ActInf Lab](https://www.activeinference.org/) Scientific Advisory Board. [Jopro](https://www.jopro.org/) Education Advisor
 
-- ⚡ Fun fact: Spring 2023 I am teaching Project Management from an Open Perspective at the [University of Illinois Urbana-Champaign iSchool]()! 
+- ⚡ I teach at the [iSchool]((https://ischool.illinois.edu), University of Illinois Urbana-Champaign. Topics include: Project Management, Programming, and Machine Learning. Check out the [Illinois Model Builder](https://publish.illinois.edu/illinois-model-builder/) course (offered Fall semesters)!
   
   Hello World!
