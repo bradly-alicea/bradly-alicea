@@ -5,7 +5,7 @@
 
 - 🏡 :computer: :microscope: I’m currently working on making Github commits via [Orthogonal Research and Education Lab](https://github.com/Orthogonal-Research-Lab), [DevoWorm](https://github.com/devoworm), [OpenWorm Foundation](https://github.com/openworm), [Synthetic Daisies](https://github.com/synthetic-daisies), and [DevoLearn](https://github.com/DevoLearn)
 
-- 📫 How to reach me: [E-mail](mailto:bradly.alicea@outlook.com), [Twitter](http://www.twitter.com/balicea1), [LinkedIn](https://www.linkedin.com/in/bradlyalicea/)
+- 📫 How to reach me: [E-mail](mailto:bradly.alicea@outlook.com), [Bluesky](https://bsky.app/profile/bradly-alicea.bsky.social), [LinkedIn](https://www.linkedin.com/in/bradlyalicea/)
 
 - 👯 I’m looking to collaborate on big, unfinished (or unwieldy) ideas! Virtual Reality, Computational Developmental Biology, and Neuro/CogSci. My collaborators and I combine this perspective with social feed pedagogy on the [Big, Unfinished Ideas Discord](https://discord.gg/ZvxwgXg) 🔥
 
