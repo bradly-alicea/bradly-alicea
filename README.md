@@ -19,6 +19,6 @@
   
 - 🌱 [ActInf Lab](https://www.activeinference.org/) Scientific Advisory Board. [Jopro](https://www.jopro.org/) Education Advisor
 
-- ⚡ I teach at the [iSchool]((https://ischool.illinois.edu), University of Illinois Urbana-Champaign. Topics include: Project Management, Programming, and Machine Learning. Check out the [Illinois Model Builder](https://publish.illinois.edu/illinois-model-builder/) course (offered Fall semesters)!
+- ⚡ I teach at the [iSchool](https://ischool.illinois.edu), University of Illinois Urbana-Champaign. Topics include: Project Management, Programming, and Machine Learning. Check out the [Illinois Model Builder](https://publish.illinois.edu/illinois-model-builder/) course (offered Fall semesters)!
   
   Hello World!
